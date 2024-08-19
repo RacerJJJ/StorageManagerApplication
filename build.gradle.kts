@@ -53,6 +53,7 @@ dependencies {
     implementation("org.apache.clerezza.ext:org.json.simple:0.4")
     implementation("org.springframework:spring:5.3.39")
     implementation("org.springframework.boot:spring-boot-starter")
+    implementation("commons-io:commons-io:2.16.1")
 
 }
 
